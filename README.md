@@ -16,4 +16,5 @@
 
 - requests
 - beautifulsoup4
+- python 3.10
 
